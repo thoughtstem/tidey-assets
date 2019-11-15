@@ -1,1 +1,0 @@
-("7.4" racket ("89c38e35289daaddce389d3199ac8455ed330a59" . "af420284f899d5f706ef01e10dd312a621d455f1") (collects #"define-assets-from" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"scribble" #"manual.rkt"))

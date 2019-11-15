@@ -1,1 +1,0 @@
-("7.4" racket ("4f0580c0d0483ce563553efcdb95ede135a770eb" . "a66845ca996fbc45adcbf6532669ce342951b4f4") (collects #"define-assets-from" #"main.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"tidey-assets" #"bgs.rkt") (collects #"tidey-assets" #"characters.rkt") (collects #"tidey-assets" #"coins.rkt"))
