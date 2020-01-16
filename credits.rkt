@@ -3,8 +3,7 @@
 (provide credits-animated-in-house
          credits)
 
-(require (only-in scribble/manual para link)
-         define-assets-from)
+(require (only-in scribble/manual para link))
 
 (define credits-animated-in-house
   (para "Original Artist Credit: Andrew Tidey. See: "
